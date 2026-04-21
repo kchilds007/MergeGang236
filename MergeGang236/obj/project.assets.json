@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/kentarochilds/.nuget/packages/": {}
+    "/Users/hexummoffett/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
+      "projectUniqueName": "/Users/hexummoffett/RiderProjects/MergeGang236/MergeGang236/MergeGang236.csproj",
       "projectName": "MergeGang236",
-      "projectPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
-      "packagesPath": "/Users/kentarochilds/.nuget/packages/",
-      "outputPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/obj/",
+      "projectPath": "/Users/hexummoffett/RiderProjects/MergeGang236/MergeGang236/MergeGang236.csproj",
+      "packagesPath": "/Users/hexummoffett/.nuget/packages/",
+      "outputPath": "/Users/hexummoffett/RiderProjects/MergeGang236/MergeGang236/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kentarochilds/.nuget/NuGet/NuGet.Config"
+        "/Users/hexummoffett/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,9 +42,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/kentarochilds/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/hexummoffett/.dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
