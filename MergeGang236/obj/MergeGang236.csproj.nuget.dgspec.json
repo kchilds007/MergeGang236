@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kentarochilds/GAMEDEV/MergeGang236/MergeGang236/MergeGang236.csproj": {}
+    "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj": {}
   },
   "projects": {
-    "/Users/kentarochilds/GAMEDEV/MergeGang236/MergeGang236/MergeGang236.csproj": {
+    "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kentarochilds/GAMEDEV/MergeGang236/MergeGang236/MergeGang236.csproj",
+        "projectUniqueName": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
         "projectName": "MergeGang236",
-        "projectPath": "/Users/kentarochilds/GAMEDEV/MergeGang236/MergeGang236/MergeGang236.csproj",
+        "projectPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
         "packagesPath": "/Users/kentarochilds/.nuget/packages/",
-        "outputPath": "/Users/kentarochilds/GAMEDEV/MergeGang236/MergeGang236/obj/",
+        "outputPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kentarochilds/.nuget/NuGet/NuGet.Config"
