@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/kentarochilds/.nuget/packages/": {}
+    "/Users/kennethpai/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
+      "projectUniqueName": "/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/MergeGang236.csproj",
       "projectName": "MergeGang236",
-      "projectPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/MergeGang236.csproj",
-      "packagesPath": "/Users/kentarochilds/.nuget/packages/",
-      "outputPath": "/Users/kentarochilds/Documents/CPSC_Courses/Game-236/MergeGang236/MergeGang236/obj/",
+      "projectPath": "/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/MergeGang236.csproj",
+      "packagesPath": "/Users/kennethpai/.nuget/packages/",
+      "outputPath": "/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kentarochilds/.nuget/NuGet/NuGet.Config"
+        "/Users/kennethpai/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/kentarochilds/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/kennethpai/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

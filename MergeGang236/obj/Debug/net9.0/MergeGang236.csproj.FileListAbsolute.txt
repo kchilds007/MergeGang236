@@ -1,0 +1,15 @@
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/bin/Debug/net9.0/MergeGang236
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/bin/Debug/net9.0/MergeGang236.deps.json
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/bin/Debug/net9.0/MergeGang236.runtimeconfig.json
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/bin/Debug/net9.0/MergeGang236.dll
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/bin/Debug/net9.0/MergeGang236.pdb
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.AssemblyInfoInputs.cache
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.AssemblyInfo.cs
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.csproj.CoreCompileInputs.cache
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.sourcelink.json
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.dll
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/refint/MergeGang236.dll
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.pdb
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/MergeGang236.genruntimeconfig.cache
+/Users/kennethpai/RiderProjects/MergeGang236/MergeGang236/obj/Debug/net9.0/ref/MergeGang236.dll

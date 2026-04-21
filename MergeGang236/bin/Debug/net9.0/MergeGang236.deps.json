@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MergeGang236/1.0.0": {
+        "runtime": {
+          "MergeGang236.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeGang236/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
